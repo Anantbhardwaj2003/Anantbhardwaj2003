@@ -1,3 +1,4 @@
+![logo](https://github.com/Anantbhardwaj2003/Anantbhardwaj2003/blob/main/Github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Anant Bhardwaj</h1>
 <h3 align="center">A passionate Data Analyst enthusiast from India</h3>
 
