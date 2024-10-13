@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #4CAF50;">Anant Bhardwaj</span></h1>
 <h3 align="center" style="font-style: italic;">A passionate Data Analyst enthusiast from India</h3>
 
+[![An image of @anantbhardwaj2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anantbhardwaj2003)](https://holopin.io/@anantbhardwaj2003)
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> 
@@ -73,3 +75,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantbhardwaj2003&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantbhardwaj2003&" alt="GitHub Streak Stats" /></p>
+
+
