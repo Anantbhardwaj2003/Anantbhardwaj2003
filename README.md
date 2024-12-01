@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anantbhardwaj2003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantbhardwaj2003&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantbhardwaj2003&theme=radical" alt="GitHub Streak" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantbhardwaj2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
