@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" alt="Plotly" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=400&v=4" alt="Jupyter" width="40" height="40" />
 </p>
 
 ---
