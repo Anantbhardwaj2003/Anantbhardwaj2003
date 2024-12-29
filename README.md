@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Anant+Bhardwaj!;Data+Analyst+%7C+Python+Expert;Turning+Data+Into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+Anant+Bhardwaj!;Data+Analyst+%7C+Python+Expert;Turning+Data+Into+Insights+%F0%9F%9A%80">
 </h1>
 
 <div align="center">
@@ -24,13 +24,13 @@
 - 💡 Currently expanding my skills in **Deep Learning** and **Big Data Analytics**.  
 - 💬 Ask me about **Data Cleaning, ETL Pipelines**, and **Storytelling with Data**.  
 - 📫 How to reach me: [**araabh6565@gmail.com**](mailto:araabh6565@gmail.com).  
-- ⚡ Fun fact: Data is like music; **patterns make it sing!**
+- ⚡ Fun fact: Data is like music; **patterns make it sing!** 🎵
 
 ---
 
 ### 🛠️ **My Toolkit**
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40" />
@@ -40,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" alt="Plotly" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=400&v=4" alt="Jupyter" width="40" height="40" />
 </p>
 
 ---
@@ -60,7 +59,7 @@
 
 ### 🤝 **Connect with Me**
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/anant-bhardwaj-b34417292" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -81,8 +80,12 @@
 
 ---
 
-### 🌟 **Dynamic Quote**
+### 🌟 **Dynamic Widgets**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote">
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes">
 </p>
