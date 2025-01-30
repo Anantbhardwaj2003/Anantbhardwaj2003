@@ -30,7 +30,7 @@
 ## 🛠️ **My Toolkit**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,powerbi,tableau,mysql,postgres,plotly,jupyter,seaborn,scikit-learn,tensorflow" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ai,aiscript,sklearn,mysql,postgres,tensorflow" alt="Tech Stack" />
 </p>
 
 ---
@@ -80,13 +80,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anant-bhardwaj-b34417292" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/bhardwaj_anant_07" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://twitter.com/anantbhardwaj07" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anantbhardwaj2003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantbhardwaj2003&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantbhardwaj2003&theme=radical" alt="GitHub Streak" width="52%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantbhardwaj2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
