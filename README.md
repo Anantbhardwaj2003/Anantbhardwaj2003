@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anantbhardwaj2003/Anantbhardwaj2003/blob/main/Github_banner1.webp" alt="Banner" />
+  <img src="https://github.com/Anantbhardwaj2003/Anantbhardwaj2003/blob/main/Github_banner1.webp" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -14,50 +14,69 @@
 
 ---
 
-### 🌟 **About Me**
+## 🌟 **About Me**
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🔍 Passionate about exploring **Data Analytics**, **Visualization**, and **Machine Learning**.  
+- 🔍 Passionate about **Data Analytics**, **Visualization**, and **Machine Learning**.  
 - 📊 I love working with data to uncover **actionable insights** and solve complex problems.  
-- 🛠️ Proficient in **Python**, **SQL**, and **Power BI**.  
-- 💡 Currently expanding my skills in **Deep Learning** and **Big Data Analytics**.  
-- 💬 Ask me about **Data Cleaning, ETL Pipelines**, and **Storytelling with Data**.  
-- 📫 How to reach me: [**araabh6565@gmail.com**](mailto:araabh6565@gmail.com).  
-- ⚡ Fun fact: Data is like music; **patterns make it sing!** 🎵
+- 🛠️ Proficient in **Python**, **SQL**, **Power BI**, and **Tableau**.  
+- 💡 Currently exploring **Deep Learning**, **Big Data**, and **AI-driven Analytics**.  
+- 📫 Reach me at: [**araabh6565@gmail.com**](mailto:araabh6565@gmail.com).  
+- 🚀 Fun fact: **Numbers tell stories, and I love decoding them!**  
 
 ---
 
-### 🛠️ **My Toolkit**
+## 🛠️ **My Toolkit**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
-  <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" alt="Tableau" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png" alt="Plotly" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,powerbi,tableau,mysql,postgres,plotly,jupyter,seaborn,scikit-learn,tensorflow" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 **Featured Projects**
+## 📊 **Featured Projects**
 
-- 🛍️ **E-commerce Dashboard**: A Power BI dashboard for analyzing sales trends and customer behavior.  
-  [**View Project**](https://github.com/Anantbhardwaj2003/E-commerce-Dashboard/blob/main/E-commerce%20Dashboard.pbix)  
-
-- 🧮 **Predictive Analytics**: Built a regression model to forecast sales using Python and Scikit-learn.  
-  [**Explore Repository**](https://github.com/Anantbhardwaj2003/Predictive-Analytics)  
-
-- 📈 **COVID-19 Tracker**: Real-time visualization and data tracking dashboard using Tableau.  
-  [**View Insights**](https://github.com/Anantbhardwaj2003/COVID-Tracker)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🛍️ E-commerce Dashboard</h3>
+        <p>Power BI dashboard for analyzing sales trends and customer behavior.</p>
+        <a href="https://github.com/Anantbhardwaj2003/E-commerce-Dashboard/blob/main/E-commerce%20Dashboard.pbix">
+          <img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+      <td align="center">
+        <h3>🧮 Predictive Analytics</h3>
+        <p>Built a machine learning model to forecast sales trends.</p>
+        <a href="https://github.com/Anantbhardwaj2003/Predictive-Analytics">
+          <img src="https://img.shields.io/badge/Explore%20Repository-4CAF50?style=for-the-badge" alt="Explore Repository">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>📈 COVID-19 Tracker</h3>
+        <p>Interactive Tableau dashboard for real-time COVID-19 insights.</p>
+        <a href="https://github.com/Anantbhardwaj2003/COVID-Tracker">
+          <img src="https://img.shields.io/badge/View%20Insights-4CAF50?style=for-the-badge" alt="View Insights">
+        </a>
+      </td>
+      <td align="center">
+        <h3>📉 Stock Market Analysis</h3>
+        <p>Python-powered stock analysis using AI-driven algorithms.</p>
+        <a href="https://github.com/Anantbhardwaj2003/Stock-Market-Analysis">
+          <img src="https://img.shields.io/badge/Check%20Analysis-4CAF50?style=for-the-badge" alt="Check Analysis">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🤝 **Connect with Me**
+## 🤝 **Connect with Me**
 
 <p align="center">
   <a href="https://linkedin.com/in/anant-bhardwaj-b34417292" target="_blank">
@@ -66,11 +85,14 @@
   <a href="https://instagram.com/bhardwaj_anant_07" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://twitter.com/anantbhardwaj07" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anantbhardwaj2003&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
@@ -80,7 +102,7 @@
 
 ---
 
-### 🌟 **Dynamic Widgets**
+## 🌟 **Dynamic Widgets**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote">
