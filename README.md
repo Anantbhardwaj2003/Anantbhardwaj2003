@@ -41,11 +41,11 @@
 **Email:** [araabh6565@gmail.com](mailto:araabh6565@gmail.com)  
 **Fun Fact:** *I see patterns where others see chaos! 🔮*
 
-      </td>
-      <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
-      </td>
-    </td>
+</td>
+  <td width="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+  </td>
+</td>
   </table>
 </div>
 
