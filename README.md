@@ -249,15 +249,15 @@
         <br><b>Coffee Consumed</b><br>∞ cups ☕
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644505-f9dc2dfe-65b5-4ff1-b6d2-4a4ad2635a39.gif" width="50px"/>
+        <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="50px" height="100px"/>
         <br><b>Lines of Code</b><br>100,000+ 💻
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644508-206946eb-86c6-4d29-8b77-87bf2f2e5739.gif" width="50px"/>
+        <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="50px" height="100px"/>
         <br><b>Data Points Analyzed</b><br>Millions 📊
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644520-c1dff716-9344-42a6-9f22-1f7dd6d7a85f.gif" width="50px"/>
+        <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px"/>
         <br><b>Problems Solved</b><br>999+ 🧩
       </td>
     </tr>
