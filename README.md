@@ -229,13 +229,9 @@
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=%2300F5D4" alt="Jokes Card" />
 </div>
 
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lblih7gzmku7kccmkryjqaro5a&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 245, 212, 0.2); animation: fadeIn 2s ease-in-out;">
-</div>
+</div> -->
 
 ---
 
