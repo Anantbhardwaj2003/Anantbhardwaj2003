@@ -55,32 +55,32 @@
 
 ### 💻 Programming & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,scala,julia&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,next&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Big Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 </p>
 
 ### 🤖 AI/ML & Deep Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ### 📊 Data Visualization & BI
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <!-- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> -->
+  <!-- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> -->
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </p>
 
 ---
